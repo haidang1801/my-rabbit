@@ -60,7 +60,7 @@ export default function Page() {
           />
         </div>
         <img
-          src="https://scontent.xx.fbcdn.net/v/t39.1997-6/193635477_4070786766301844_5918284918500265536_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ef9b6e&_nc_ohc=8CzK4q11VpwQ7kNvwHMPixo&_nc_oc=AdmfqUmrjV1qMumFfo452WxYvcQDUJqyHYhuypwt17Y9zgZt91sZgDwaHYn07i83dCTX0x31Hpb_yGieAcWJBHgi&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=2OiFQStNCFnXFX9V_Icdfw&oh=00_AfnYrUmDtiszn5erE-hybKJRVMETk5eCNTma_DPl7mz0Mg&oe=694EBF35"
+          src="https://scontent.xx.fbcdn.net/v/t39.1997-6/49109879_372400816845788_5211840696553570304_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=ef9b6e&_nc_ohc=b7_jCclaY9oQ7kNvwF8-J4r&_nc_oc=Adkwkx25RkWwED-XfI6dPDO32cQkc3tjFj5_fSg1RKYWQgdKEOVPPCHnRbNdp3t4AyzdA4Ucshp8gHDM_51P7nck&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=4iay06X0elLTZg2yvYzTeQ&oh=00_AfkAV4iBCGfJ5xEYyMubkX6XMGSL39qMaN85sPQzYA_OOQ&oe=694EE27F"
           alt="Icon"
         />
       </div>
